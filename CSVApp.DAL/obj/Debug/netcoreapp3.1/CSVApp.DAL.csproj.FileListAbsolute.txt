@@ -1,0 +1,13 @@
+D:\LINNWORKS\CSVApp.DAL\bin\Debug\netcoreapp3.1\CSVApp.DAL.deps.json
+D:\LINNWORKS\CSVApp.DAL\bin\Debug\netcoreapp3.1\CSVApp.DAL.runtimeconfig.json
+D:\LINNWORKS\CSVApp.DAL\bin\Debug\netcoreapp3.1\CSVApp.DAL.runtimeconfig.dev.json
+D:\LINNWORKS\CSVApp.DAL\bin\Debug\netcoreapp3.1\CSVApp.DAL.dll
+D:\LINNWORKS\CSVApp.DAL\bin\Debug\netcoreapp3.1\CSVApp.DAL.pdb
+D:\LINNWORKS\CSVApp.DAL\bin\Debug\netcoreapp3.1\CSVApp.Contract.dll
+D:\LINNWORKS\CSVApp.DAL\bin\Debug\netcoreapp3.1\CSVApp.Contract.pdb
+D:\LINNWORKS\CSVApp.DAL\obj\Debug\netcoreapp3.1\CSVApp.DAL.csprojAssemblyReference.cache
+D:\LINNWORKS\CSVApp.DAL\obj\Debug\netcoreapp3.1\CSVApp.DAL.AssemblyInfoInputs.cache
+D:\LINNWORKS\CSVApp.DAL\obj\Debug\netcoreapp3.1\CSVApp.DAL.AssemblyInfo.cs
+D:\LINNWORKS\CSVApp.DAL\obj\Debug\netcoreapp3.1\CSVApp.DAL.csproj.CopyComplete
+D:\LINNWORKS\CSVApp.DAL\obj\Debug\netcoreapp3.1\CSVApp.DAL.dll
+D:\LINNWORKS\CSVApp.DAL\obj\Debug\netcoreapp3.1\CSVApp.DAL.pdb

@@ -1,0 +1,8 @@
+D:\LINNWORKS\CSVApp.Contract\bin\Debug\netcoreapp3.1\CSVApp.Contract.deps.json
+D:\LINNWORKS\CSVApp.Contract\bin\Debug\netcoreapp3.1\CSVApp.Contract.dll
+D:\LINNWORKS\CSVApp.Contract\bin\Debug\netcoreapp3.1\CSVApp.Contract.pdb
+D:\LINNWORKS\CSVApp.Contract\obj\Debug\netcoreapp3.1\CSVApp.Contract.csprojAssemblyReference.cache
+D:\LINNWORKS\CSVApp.Contract\obj\Debug\netcoreapp3.1\CSVApp.Contract.AssemblyInfoInputs.cache
+D:\LINNWORKS\CSVApp.Contract\obj\Debug\netcoreapp3.1\CSVApp.Contract.AssemblyInfo.cs
+D:\LINNWORKS\CSVApp.Contract\obj\Debug\netcoreapp3.1\CSVApp.Contract.dll
+D:\LINNWORKS\CSVApp.Contract\obj\Debug\netcoreapp3.1\CSVApp.Contract.pdb
